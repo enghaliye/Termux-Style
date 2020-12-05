@@ -23,10 +23,10 @@ cd qurxin
 
 bash rvt.sh
 ```
-# thanks to https://github.com/fikrado 
+# thanks to https://github.com/enghaliye
  # For providing the code
 
     
 ## [+] Find Me on :
-##### https://instagram.com/mr__yahye
+##### https://instagram.com/enghaliye
 
